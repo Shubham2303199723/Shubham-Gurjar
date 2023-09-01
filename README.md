@@ -2,10 +2,10 @@
 
  I'm Shubham Gurjar A Web Developer From
  Indore India.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I like to learn new Things New Skills In Computer.Always Curious To make Make New Projects To Solve Problems for Gain Knowledge.
+- 🌱 I’m currently Java, python, C, C++, HTML, CSS, JavaScript.
+- 💞️ I Like To Work With New people and Give my Contribution.
+- 📫 My Email - shubhamgurjar222@gmail.com
 
 <!---
 Shubham2303199723/Shubham2303199723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
