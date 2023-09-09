@@ -7,6 +7,9 @@
 - 💞️ I Like To Work With New people and Give my Contribution.
 - 📫 My Email ID - shubhamgurjar222@gmail.com
 
+Status -:
+Currently Making Diffrent Type of Projects For Practice in Python.
+
 <!---
 Shubham2303199723/Shubham2303199723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
