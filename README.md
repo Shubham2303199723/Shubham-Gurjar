@@ -8,7 +8,7 @@
 - My Email ID - shubhamgurjar222@gmail.com
 
 Status -:
-Currently Making Diffrent Type of Projects For Practice in Python.
+Currently Making Diffrent Type of Projects For in Python.
 
 <!---
 Shubham2303199723/Shubham2303199723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
