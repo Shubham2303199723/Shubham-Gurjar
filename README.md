@@ -2,10 +2,11 @@
 
  I'm Shubham Gurjar A Software Developer From
  Indore India.
-- 👀 I like to learn new Things New Skills In Computer.Always Curious To make Make New Projects To Solve Problems for Gain Knowledge.
-- 🌱 I Have Learned Java, python, C, C++, HTML, CSS, JavaScript.
-- 💞️ I Like To Work With New people to Give my Contribution.
-- 📫 My Email ID - shubhamgurjar222@gmail.com
+- I like to learn new Things New Skills In Computer.Always Curious To make Make New Projects To Solve Problems for Gain Knowledge.
+- I Have Learned Java, python, C, C++, HTML, CSS, JavaScript.
+- I have learned Technologies Django, Flask, Tkinter(GUI), OpenCV etc.
+- I Like To Work With New people to Give my Contribution.
+- My Email ID - shubhamgurjar222@gmail.com
 
 Status -:
 Currently Making Diffrent Type of Projects For Practice in Python.
