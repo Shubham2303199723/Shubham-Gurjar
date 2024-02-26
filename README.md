@@ -4,7 +4,7 @@
  Indore India.
 - I Have Learned Java, python, C, C++, HTML, CSS, JavaScript.
 - I have learned Technologies Django, Flask, Tkinter(GUI), OpenCV etc.
-- I like to learn new Things New Skills In Computer. Always Curious To make Make New Projects To Solve Problems.
+- I like to learn new Things. Always Curious To make Make New Projects and Solve Problems.
 - My Email ID - shubhamgurjar222@gmail.com
 
 Status -:
